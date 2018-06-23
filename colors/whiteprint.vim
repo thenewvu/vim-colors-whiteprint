@@ -56,10 +56,10 @@ hi       IncSearch guifg=none    guibg=#fffacd gui=none
 hi      StatusLine guifg=#c6cacd guibg=#eff0f1 gui=none
 hi    StatusLineNC guifg=#c6cacd guibg=#eff0f1 gui=none
 hi        WildMenu guifg=#c6cacd guibg=#eff0f1 gui=none
-hi        Question guifg=#b854d4 guibg=none    gui=none
-hi           Title guifg=#b854d4 guibg=none    gui=none
-hi         ModeMsg guifg=#b854d4 guibg=none    gui=none
-hi         MoreMsg guifg=#b854d4 guibg=none    gui=none
+hi        Question guifg=#005cc5 guibg=none    gui=none
+hi           Title guifg=#005cc5 guibg=none    gui=none
+hi         ModeMsg guifg=#005cc5 guibg=none    gui=none
+hi         MoreMsg guifg=#005cc5 guibg=none    gui=none
 
 " --------------
 " - Visual aid -
@@ -68,13 +68,13 @@ hi      MatchParen guifg=none    guibg=#fffacd gui=underline
 hi          Visual guifg=none    guibg=#fffacd gui=none
 hi       VisualNOS guifg=none    guibg=#fffacd gui=none
 hi         NonText guifg=#c6cacd guibg=none    gui=none
-hi            Todo guifg=#b854d4 guibg=none    gui=none
+hi            Todo guifg=#005cc5 guibg=none    gui=none
 hi      Underlined guifg=none    guibg=none    gui=underline
 hi           Error guifg=#D94D40 guibg=none    gui=none
 hi        ErrorMsg guifg=#D94D40 guibg=none    gui=none
-hi      WarningMsg guifg=#6684e1 guibg=none    gui=none
+hi      WarningMsg guifg=#D94D40 guibg=none    gui=none
 hi          Ignore guifg=#262626 guibg=none    gui=none
-hi      SpecialKey guifg=#b854d4 guibg=none    gui=none
+hi      SpecialKey guifg=#005cc5 guibg=none    gui=none
 
 " --------------------------------
 " Variable types
@@ -95,34 +95,34 @@ hi        Function guifg=none    guibg=none    gui=none
 " --------------------------------
 hi         Comment guifg=#b8bdc1 guibg=none    gui=none
 
-hi       Statement guifg=#b854d4 guibg=none    gui=none
-hi     Conditional guifg=#b854d4 guibg=none    gui=none
-hi          Repeat guifg=#b854d4 guibg=none    gui=none
+hi       Statement guifg=#005cc5 guibg=none    gui=none
+hi     Conditional guifg=#005cc5 guibg=none    gui=none
+hi          Repeat guifg=#005cc5 guibg=none    gui=none
 hi           Label guifg=none    guibg=none    gui=none
 hi        Operator guifg=none    guibg=none    gui=none
-hi         Keyword guifg=#b854d4 guibg=none    gui=none
-hi       Exception guifg=#b854d4 guibg=none    gui=none
+hi         Keyword guifg=#005cc5 guibg=none    gui=none
+hi       Exception guifg=#005cc5 guibg=none    gui=none
 
 hi         Special guifg=none    guibg=none    gui=none
 hi     SpecialChar guifg=none    guibg=none    gui=none
 hi             Tag guifg=#c6cacd guibg=none    gui=none
 hi       Delimiter guifg=#c6cacd guibg=none    gui=none
-hi  SpecialComment guifg=#b854d4 guibg=none    gui=none
+hi  SpecialComment guifg=#005cc5 guibg=none    gui=none
 hi           Debug guifg=#c6cacd guibg=none    gui=none
 
 " ----------
 " - C like -
 " ----------
-hi         PreProc guifg=#b854d4 guibg=none    gui=none
-hi         Include guifg=#b854d4 guibg=none    gui=none
-hi          Define guifg=#b854d4 guibg=none    gui=none
-hi           Macro guifg=#b854d4 guibg=none    gui=none
-hi       PreCondit guifg=#b854d4 guibg=none    gui=none
+hi         PreProc guifg=#005cc5 guibg=none    gui=none
+hi         Include guifg=#005cc5 guibg=none    gui=none
+hi          Define guifg=#005cc5 guibg=none    gui=none
+hi           Macro guifg=#005cc5 guibg=none    gui=none
+hi       PreCondit guifg=#005cc5 guibg=none    gui=none
 
 hi            Type guifg=none    guibg=none    gui=none
-hi    StorageClass guifg=#b854d4 guibg=none    gui=none
-hi       Structure guifg=#b854d4 guibg=none    gui=none
-hi         Typedef guifg=#b854d4 guibg=none    gui=none
+hi    StorageClass guifg=none    guibg=none    gui=none
+hi       Structure guifg=#005cc5 guibg=none    gui=none
+hi         Typedef guifg=#005cc5 guibg=none    gui=none
 
 " --------------------------------
 " Diff
@@ -131,7 +131,7 @@ hi         DiffAdd guifg=#2fa689 guibg=none    gui=none
 hi      DiffChange guifg=#6684e1 guibg=none    gui=none
 hi      DiffDelete guifg=#D94D40 guibg=none    gui=none
 hi        DiffText guifg=#a8a8a8 guibg=none    gui=none
-hi        DiffFile guifg=#b854d4 guibg=none    gui=none
+hi        DiffFile guifg=#005cc5 guibg=none    gui=none
 
 hi            link diffAdded           DiffAdd
 hi            link diffRemoved      DiffDelete
