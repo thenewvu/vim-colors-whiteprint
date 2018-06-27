@@ -30,8 +30,8 @@ hi    CursorLineNR guifg=none    guibg=#eff0f1 gui=none
 " - Number column -
 " -----------------
 hi    CursorColumn guifg=none    guibg=#eff0f1 gui=none
-hi      FoldColumn guifg=none    guibg=#eff0f1 gui=none
-hi      SignColumn guifg=none    guibg=none    gui=none
+hi      FoldColumn guifg=#c6cacd guibg=none    gui=none
+hi      SignColumn guifg=#c6cacd guibg=none    gui=none
 hi          Folded guifg=none    guibg=none    gui=none
 
 " -------------------------
